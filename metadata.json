@@ -1,0 +1,8 @@
+{
+  "name": "My APD Digital - Mamuju Tengah",
+  "description": "Sistem manajemen data perangkat desa untuk Kabupaten Mamuju Tengah, Sulawesi Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
